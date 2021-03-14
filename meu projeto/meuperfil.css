@@ -80,3 +80,27 @@ body{
 .fim{
     color: rgb(34, 207, 11);
 }
+
+.container{
+    margin: 0px;
+    padding: 50px 0px 50px 0px;
+    font-size: 20px;
+
+}
+
+.efeito{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 100px 150px 100px 150px;
+}
+
+.efeito a{
+    text-decoration-line: underline;
+    color: white;
+    
+}
+
+.efeito a:hover{
+        color: grey;
+}
+
+
